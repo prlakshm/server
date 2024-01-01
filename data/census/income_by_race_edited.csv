@@ -1,0 +1,324 @@
+ID Race,Race,ID Year,Year,Household Income by Race,Household Income by Race Moe,Geography,ID Geography,Slug Geography
+0,Total,2020,2020,85413,6122,"Bristol County, RI",05000US44001,bristol-county-ri
+0,Total,2020,2020,75857,2022,"Kent County, RI",05000US44003,kent-county-ri
+0,Total,2020,2020,84282,2629,"Newport County, RI",05000US44005,newport-county-ri
+0,Total,2020,2020,62323,1270,"Providence County, RI",05000US44007,providence-county-ri
+0,Total,2020,2020,86970,3651,"Washington County, RI",05000US44009,washington-county-ri
+1,White,2020,2020,85359,6432,"Bristol County, RI",05000US44001,bristol-county-ri
+1,White,2020,2020,75408,2311,"Kent County, RI",05000US44003,kent-county-ri
+1,White,2020,2020,87407,3706,"Newport County, RI",05000US44005,newport-county-ri
+1,White,2020,2020,67639,1255,"Providence County, RI",05000US44007,providence-county-ri
+1,White,2020,2020,88147,3942,"Washington County, RI",05000US44009,washington-county-ri
+2,Black,2020,2020,72443,54768,"Bristol County, RI",05000US44001,bristol-county-ri
+2,Black,2020,2020,100375,20176,"Kent County, RI",05000US44003,kent-county-ri
+2,Black,2020,2020,46622,14559,"Newport County, RI",05000US44005,newport-county-ri
+2,Black,2020,2020,46084,3384.0000000000000,"Providence County, RI",05000US44007,providence-county-ri
+2,Black,2020,2020,45849,6614,"Washington County, RI",05000US44009,washington-county-ri
+3,Native American,2020,2020,36106,16192,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2020,2020,69612,53700,"Bristol County, RI",05000US44001,bristol-county-ri
+4,Asian,2020,2020,97578,18617,"Kent County, RI",05000US44003,kent-county-ri
+4,Asian,2020,2020,110350,12239,"Newport County, RI",05000US44005,newport-county-ri
+4,Asian,2020,2020,81438,5762,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2020,2020,69653,31807.000000000000,"Washington County, RI",05000US44009,washington-county-ri
+5,Pacific Islander,2020,2020,43990,4351,"Providence County, RI",05000US44007,providence-county-ri
+6,Other,2020,2020,60446,13988,"Kent County, RI",05000US44003,kent-county-ri
+6,Other,2020,2020,29375,2225,"Newport County, RI",05000US44005,newport-county-ri
+6,Other,2020,2020,40706,4024,"Providence County, RI",05000US44007,providence-county-ri
+7,Two Or More,2020,2020,100250,22504,"Bristol County, RI",05000US44001,bristol-county-ri
+7,Two Or More,2020,2020,75938,26788,"Kent County, RI",05000US44003,kent-county-ri
+7,Two Or More,2020,2020,83574,5944,"Newport County, RI",05000US44005,newport-county-ri
+7,Two Or More,2020,2020,47163,8892,"Providence County, RI",05000US44007,providence-county-ri
+7,Two Or More,2020,2020,96898,42213,"Washington County, RI",05000US44009,washington-county-ri
+8,White Non-Hispanic,2020,2020,86463,7051,"Bristol County, RI",05000US44001,bristol-county-ri
+8,White Non-Hispanic,2020,2020,75265,2318,"Kent County, RI",05000US44003,kent-county-ri
+8,White Non-Hispanic,2020,2020,87713,3638,"Newport County, RI",05000US44005,newport-county-ri
+8,White Non-Hispanic,2020,2020,71428,1376,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2020,2020,87516,3859.0000000000000,"Washington County, RI",05000US44009,washington-county-ri
+9,Hispanic,2020,2020,64167,25729,"Bristol County, RI",05000US44001,bristol-county-ri
+9,Hispanic,2020,2020,76602,14152,"Kent County, RI",05000US44003,kent-county-ri
+9,Hispanic,2020,2020,56652,33449,"Newport County, RI",05000US44005,newport-county-ri
+9,Hispanic,2020,2020,41592,1749,"Providence County, RI",05000US44007,providence-county-ri
+9,Hispanic,2020,2020,104929,30259,"Washington County, RI",05000US44009,washington-county-ri
+0,Total,2019,2019,83092,4339,"Bristol County, RI",05000US44001,bristol-county-ri
+0,Total,2019,2019,73521,1703,"Kent County, RI",05000US44003,kent-county-ri
+0,Total,2019,2019,79454,2611,"Newport County, RI",05000US44005,newport-county-ri
+0,Total,2019,2019,58974,1051,"Providence County, RI",05000US44007,providence-county-ri
+0,Total,2019,2019,85531,2042,"Washington County, RI",05000US44009,washington-county-ri
+1,White,2019,2019,82750,5075,"Bristol County, RI",05000US44001,bristol-county-ri
+1,White,2019,2019,73415,1906,"Kent County, RI",05000US44003,kent-county-ri
+1,White,2019,2019,82158,2740,"Newport County, RI",05000US44005,newport-county-ri
+1,White,2019,2019,64195,1128,"Providence County, RI",05000US44007,providence-county-ri
+1,White,2019,2019,87019,2150,"Washington County, RI",05000US44009,washington-county-ri
+2,Black,2019,2019,79609,17881,"Kent County, RI",05000US44003,kent-county-ri
+2,Black,2019,2019,44765,12493,"Newport County, RI",05000US44005,newport-county-ri
+2,Black,2019,2019,43387,3459.0000000000000,"Providence County, RI",05000US44007,providence-county-ri
+2,Black,2019,2019,83011,16035,"Washington County, RI",05000US44009,washington-county-ri
+3,Native American,2019,2019,39375,35211,"Newport County, RI",05000US44005,newport-county-ri
+3,Native American,2019,2019,33200,10203,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2019,2019,118750,78991,"Bristol County, RI",05000US44001,bristol-county-ri
+4,Asian,2019,2019,92268,9257,"Kent County, RI",05000US44003,kent-county-ri
+4,Asian,2019,2019,106912,24529,"Newport County, RI",05000US44005,newport-county-ri
+4,Asian,2019,2019,75425,4603,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2019,2019,75735,11221,"Washington County, RI",05000US44009,washington-county-ri
+5,Pacific Islander,2019,2019,40815,16560,"Providence County, RI",05000US44007,providence-county-ri
+6,Other,2019,2019,70179,23312,"Kent County, RI",05000US44003,kent-county-ri
+6,Other,2019,2019,36962,3139,"Providence County, RI",05000US44007,providence-county-ri
+7,Two Or More,2019,2019,110078,43635,"Bristol County, RI",05000US44001,bristol-county-ri
+7,Two Or More,2019,2019,58112,11419,"Kent County, RI",05000US44003,kent-county-ri
+7,Two Or More,2019,2019,70750,16835,"Newport County, RI",05000US44005,newport-county-ri
+7,Two Or More,2019,2019,45030,6614,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2019,2019,83216,4938,"Bristol County, RI",05000US44001,bristol-county-ri
+8,White Non-Hispanic,2019,2019,73316,1864.0000000000000,"Kent County, RI",05000US44003,kent-county-ri
+8,White Non-Hispanic,2019,2019,82282,2614,"Newport County, RI",05000US44005,newport-county-ri
+8,White Non-Hispanic,2019,2019,67975,1352,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2019,2019,86857,2237,"Washington County, RI",05000US44009,washington-county-ri
+9,Hispanic,2019,2019,70543,24295,"Bristol County, RI",05000US44001,bristol-county-ri
+9,Hispanic,2019,2019,74685,11265,"Kent County, RI",05000US44003,kent-county-ri
+9,Hispanic,2019,2019,56106,22438,"Newport County, RI",05000US44005,newport-county-ri
+9,Hispanic,2019,2019,39125,1865,"Providence County, RI",05000US44007,providence-county-ri
+9,Hispanic,2019,2019,83661,58895,"Washington County, RI",05000US44009,washington-county-ri
+0,Total,2018,2018,75578,3422,"Bristol County, RI",05000US44001,bristol-county-ri
+0,Total,2018,2018,70223,1879.0000000000000,"Kent County, RI",05000US44003,kent-county-ri
+0,Total,2018,2018,77237,3024,"Newport County, RI",05000US44005,newport-county-ri
+0,Total,2018,2018,55233,904.0000000000000,"Providence County, RI",05000US44007,providence-county-ri
+0,Total,2018,2018,81301,2985,"Washington County, RI",05000US44009,washington-county-ri
+1,White,2018,2018,75730,3643.0000000000000,"Bristol County, RI",05000US44001,bristol-county-ri
+1,White,2018,2018,70402,1972,"Kent County, RI",05000US44003,kent-county-ri
+1,White,2018,2018,80035,3330,"Newport County, RI",05000US44005,newport-county-ri
+1,White,2018,2018,60437,1180,"Providence County, RI",05000US44007,providence-county-ri
+1,White,2018,2018,82240,3183,"Washington County, RI",05000US44009,washington-county-ri
+2,Black,2018,2018,63472,21347,"Kent County, RI",05000US44003,kent-county-ri
+2,Black,2018,2018,50625,19586,"Newport County, RI",05000US44005,newport-county-ri
+2,Black,2018,2018,40709,2053,"Providence County, RI",05000US44007,providence-county-ri
+2,Black,2018,2018,90313,20795,"Washington County, RI",05000US44009,washington-county-ri
+3,Native American,2018,2018,35767,27464,"Newport County, RI",05000US44005,newport-county-ri
+3,Native American,2018,2018,35101,12922,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2018,2018,82250,80499,"Bristol County, RI",05000US44001,bristol-county-ri
+4,Asian,2018,2018,97879,17549,"Kent County, RI",05000US44003,kent-county-ri
+4,Asian,2018,2018,107733,19097,"Newport County, RI",05000US44005,newport-county-ri
+4,Asian,2018,2018,68383,3861,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2018,2018,75946,10049,"Washington County, RI",05000US44009,washington-county-ri
+5,Pacific Islander,2018,2018,41508,4724,"Providence County, RI",05000US44007,providence-county-ri
+6,Other,2018,2018,75679,31076,"Kent County, RI",05000US44003,kent-county-ri
+6,Other,2018,2018,11341,4468,"Newport County, RI",05000US44005,newport-county-ri
+6,Other,2018,2018,35225,2479,"Providence County, RI",05000US44007,providence-county-ri
+7,Two Or More,2018,2018,48083,14257,"Kent County, RI",05000US44003,kent-county-ri
+7,Two Or More,2018,2018,68125,32171,"Newport County, RI",05000US44005,newport-county-ri
+7,Two Or More,2018,2018,41607,3396,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2018,2018,76057,3490.0000000000000,"Bristol County, RI",05000US44001,bristol-county-ri
+8,White Non-Hispanic,2018,2018,70286,2041.0000000000000,"Kent County, RI",05000US44003,kent-county-ri
+8,White Non-Hispanic,2018,2018,80290,3111,"Newport County, RI",05000US44005,newport-county-ri
+8,White Non-Hispanic,2018,2018,64160,985.0000000000000,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2018,2018,82166,3288,"Washington County, RI",05000US44009,washington-county-ri
+9,Hispanic,2018,2018,51602,31160.000000000000,"Bristol County, RI",05000US44001,bristol-county-ri
+9,Hispanic,2018,2018,73906,14038,"Kent County, RI",05000US44003,kent-county-ri
+9,Hispanic,2018,2018,41512,24697,"Newport County, RI",05000US44005,newport-county-ri
+9,Hispanic,2018,2018,35139,1669,"Providence County, RI",05000US44007,providence-county-ri
+9,Hispanic,2018,2018,82279,56035,"Washington County, RI",05000US44009,washington-county-ri
+0,Total,2017,2017,74630,3265,"Bristol County, RI",05000US44001,bristol-county-ri
+0,Total,2017,2017,69047,2197,"Kent County, RI",05000US44003,kent-county-ri
+0,Total,2017,2017,75463,1780,"Newport County, RI",05000US44005,newport-county-ri
+0,Total,2017,2017,52530,812,"Providence County, RI",05000US44007,providence-county-ri
+0,Total,2017,2017,77862,2350,"Washington County, RI",05000US44009,washington-county-ri
+1,White,2017,2017,74736,3411,"Bristol County, RI",05000US44001,bristol-county-ri
+1,White,2017,2017,69912,2016.0000000000000,"Kent County, RI",05000US44003,kent-county-ri
+1,White,2017,2017,77244,2184,"Newport County, RI",05000US44005,newport-county-ri
+1,White,2017,2017,57917,1170,"Providence County, RI",05000US44007,providence-county-ri
+1,White,2017,2017,78350,2452,"Washington County, RI",05000US44009,washington-county-ri
+2,Black,2017,2017,40024,9584,"Kent County, RI",05000US44003,kent-county-ri
+2,Black,2017,2017,39483,15542,"Newport County, RI",05000US44005,newport-county-ri
+2,Black,2017,2017,37553,2770,"Providence County, RI",05000US44007,providence-county-ri
+2,Black,2017,2017,98250,25121,"Washington County, RI",05000US44009,washington-county-ri
+3,Native American,2017,2017,8938,7773,"Newport County, RI",05000US44005,newport-county-ri
+3,Native American,2017,2017,27960,3745,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2017,2017,78778,38212,"Bristol County, RI",05000US44001,bristol-county-ri
+4,Asian,2017,2017,95000,16888,"Kent County, RI",05000US44003,kent-county-ri
+4,Asian,2017,2017,105875,2926,"Newport County, RI",05000US44005,newport-county-ri
+4,Asian,2017,2017,62983,5383,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2017,2017,73094,34344,"Washington County, RI",05000US44009,washington-county-ri
+5,Pacific Islander,2017,2017,41711,6825.000000000000,"Providence County, RI",05000US44007,providence-county-ri
+6,Other,2017,2017,42304,23495,"Kent County, RI",05000US44003,kent-county-ri
+6,Other,2017,2017,32522,31695,"Newport County, RI",05000US44005,newport-county-ri
+6,Other,2017,2017,33026,2866,"Providence County, RI",05000US44007,providence-county-ri
+7,Two Or More,2017,2017,77011,37514,"Bristol County, RI",05000US44001,bristol-county-ri
+7,Two Or More,2017,2017,44000,11831,"Kent County, RI",05000US44003,kent-county-ri
+7,Two Or More,2017,2017,56250,45583,"Newport County, RI",05000US44005,newport-county-ri
+7,Two Or More,2017,2017,40453,5913,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2017,2017,74788,3320,"Bristol County, RI",05000US44001,bristol-county-ri
+8,White Non-Hispanic,2017,2017,69724,2055,"Kent County, RI",05000US44003,kent-county-ri
+8,White Non-Hispanic,2017,2017,77780,2312,"Newport County, RI",05000US44005,newport-county-ri
+8,White Non-Hispanic,2017,2017,61466,1015,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2017,2017,78364,2455,"Washington County, RI",05000US44009,washington-county-ri
+9,Hispanic,2017,2017,47542,31963,"Bristol County, RI",05000US44001,bristol-county-ri
+9,Hispanic,2017,2017,65069,14243.000000000000,"Kent County, RI",05000US44003,kent-county-ri
+9,Hispanic,2017,2017,36250,10115,"Newport County, RI",05000US44005,newport-county-ri
+9,Hispanic,2017,2017,32838,1822,"Providence County, RI",05000US44007,providence-county-ri
+9,Hispanic,2017,2017,66000,46545,"Washington County, RI",05000US44009,washington-county-ri
+0,Total,2016,2016,73096,2962,"Bristol County, RI",05000US44001,bristol-county-ri
+0,Total,2016,2016,65592,1418,"Kent County, RI",05000US44003,kent-county-ri
+0,Total,2016,2016,71347,2096,"Newport County, RI",05000US44005,newport-county-ri
+0,Total,2016,2016,50637,599,"Providence County, RI",05000US44007,providence-county-ri
+0,Total,2016,2016,74302,2229,"Washington County, RI",05000US44009,washington-county-ri
+1,White,2016,2016,73255,2929,"Bristol County, RI",05000US44001,bristol-county-ri
+1,White,2016,2016,66116,1376,"Kent County, RI",05000US44003,kent-county-ri
+1,White,2016,2016,73101,2389,"Newport County, RI",05000US44005,newport-county-ri
+1,White,2016,2016,55418,964,"Providence County, RI",05000US44007,providence-county-ri
+1,White,2016,2016,74962,2699,"Washington County, RI",05000US44009,washington-county-ri
+2,Black,2016,2016,50750,21955,"Kent County, RI",05000US44003,kent-county-ri
+2,Black,2016,2016,38125,15190,"Newport County, RI",05000US44005,newport-county-ri
+2,Black,2016,2016,36347,2108,"Providence County, RI",05000US44007,providence-county-ri
+2,Black,2016,2016,78333,24435,"Washington County, RI",05000US44009,washington-county-ri
+3,Native American,2016,2016,7708,7150,"Newport County, RI",05000US44005,newport-county-ri
+3,Native American,2016,2016,27207,6936,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2016,2016,78598,44648,"Bristol County, RI",05000US44001,bristol-county-ri
+4,Asian,2016,2016,84451,15969.000000000000,"Kent County, RI",05000US44003,kent-county-ri
+4,Asian,2016,2016,99615,32343,"Newport County, RI",05000US44005,newport-county-ri
+4,Asian,2016,2016,58865,6489,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2016,2016,53864,34694,"Washington County, RI",05000US44009,washington-county-ri
+5,Pacific Islander,2016,2016,49075,8896,"Providence County, RI",05000US44007,providence-county-ri
+6,Other,2016,2016,48849,9012,"Kent County, RI",05000US44003,kent-county-ri
+6,Other,2016,2016,35946,17527,"Newport County, RI",05000US44005,newport-county-ri
+6,Other,2016,2016,31410,2525,"Providence County, RI",05000US44007,providence-county-ri
+6,Other,2016,2016,54354,43814,"Washington County, RI",05000US44009,washington-county-ri
+7,Two Or More,2016,2016,73315,62393.00000000000,"Bristol County, RI",05000US44001,bristol-county-ri
+7,Two Or More,2016,2016,34136,7418,"Kent County, RI",05000US44003,kent-county-ri
+7,Two Or More,2016,2016,51125,43611,"Newport County, RI",05000US44005,newport-county-ri
+7,Two Or More,2016,2016,35605,6327,"Providence County, RI",05000US44007,providence-county-ri
+7,Two Or More,2016,2016,51860,42964,"Washington County, RI",05000US44009,washington-county-ri
+8,White Non-Hispanic,2016,2016,73096,2931,"Bristol County, RI",05000US44001,bristol-county-ri
+8,White Non-Hispanic,2016,2016,66010,1360,"Kent County, RI",05000US44003,kent-county-ri
+8,White Non-Hispanic,2016,2016,73526,2358,"Newport County, RI",05000US44005,newport-county-ri
+8,White Non-Hispanic,2016,2016,58890,962,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2016,2016,74935,2687,"Washington County, RI",05000US44009,washington-county-ri
+9,Hispanic,2016,2016,68194,38709,"Bristol County, RI",05000US44001,bristol-county-ri
+9,Hispanic,2016,2016,59375,14497,"Kent County, RI",05000US44003,kent-county-ri
+9,Hispanic,2016,2016,39214,17695,"Newport County, RI",05000US44005,newport-county-ri
+9,Hispanic,2016,2016,30681,1539,"Providence County, RI",05000US44007,providence-county-ri
+9,Hispanic,2016,2016,54715,49259,"Washington County, RI",05000US44009,washington-county-ri
+0,Total,2015,2015,72458,3264,"Bristol County, RI",05000US44001,bristol-county-ri
+0,Total,2015,2015,64383,1384,"Kent County, RI",05000US44003,kent-county-ri
+0,Total,2015,2015,69526,4013,"Newport County, RI",05000US44005,newport-county-ri
+0,Total,2015,2015,49743,837,"Providence County, RI",05000US44007,providence-county-ri
+0,Total,2015,2015,72807,2018.0000000000000,"Washington County, RI",05000US44009,washington-county-ri
+1,White,2015,2015,72815,3491.0000000000000,"Bristol County, RI",05000US44001,bristol-county-ri
+1,White,2015,2015,65089,1594,"Kent County, RI",05000US44003,kent-county-ri
+1,White,2015,2015,72063,2802,"Newport County, RI",05000US44005,newport-county-ri
+1,White,2015,2015,54148,1068,"Providence County, RI",05000US44007,providence-county-ri
+1,White,2015,2015,74124,2231,"Washington County, RI",05000US44009,washington-county-ri
+2,Black,2015,2015,46339,14032,"Kent County, RI",05000US44003,kent-county-ri
+2,Black,2015,2015,35324,12508,"Newport County, RI",05000US44005,newport-county-ri
+2,Black,2015,2015,35635,2376,"Providence County, RI",05000US44007,providence-county-ri
+2,Black,2015,2015,69850,32800,"Washington County, RI",05000US44009,washington-county-ri
+3,Native American,2015,2015,30882,23254,"Kent County, RI",05000US44003,kent-county-ri
+3,Native American,2015,2015,7721,6671,"Newport County, RI",05000US44005,newport-county-ri
+3,Native American,2015,2015,25581,6276,"Providence County, RI",05000US44007,providence-county-ri
+3,Native American,2015,2015,29375,28355,"Washington County, RI",05000US44009,washington-county-ri
+4,Asian,2015,2015,75000,44237,"Bristol County, RI",05000US44001,bristol-county-ri
+4,Asian,2015,2015,72306,11596,"Kent County, RI",05000US44003,kent-county-ri
+4,Asian,2015,2015,64632,36205,"Newport County, RI",05000US44005,newport-county-ri
+4,Asian,2015,2015,52668,4329,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2015,2015,34773,17313,"Washington County, RI",05000US44009,washington-county-ri
+6,Other,2015,2015,49959,11854,"Kent County, RI",05000US44003,kent-county-ri
+6,Other,2015,2015,36042,5401,"Newport County, RI",05000US44005,newport-county-ri
+6,Other,2015,2015,30282,2966,"Providence County, RI",05000US44007,providence-county-ri
+7,Two Or More,2015,2015,38750,18572,"Kent County, RI",05000US44003,kent-county-ri
+7,Two Or More,2015,2015,36607,21926,"Newport County, RI",05000US44005,newport-county-ri
+7,Two Or More,2015,2015,37426,6042,"Providence County, RI",05000US44007,providence-county-ri
+7,Two Or More,2015,2015,48950,27437,"Washington County, RI",05000US44009,washington-county-ri
+8,White Non-Hispanic,2015,2015,72744,3542,"Bristol County, RI",05000US44001,bristol-county-ri
+8,White Non-Hispanic,2015,2015,65274,1634,"Kent County, RI",05000US44003,kent-county-ri
+8,White Non-Hispanic,2015,2015,72500,2793,"Newport County, RI",05000US44005,newport-county-ri
+8,White Non-Hispanic,2015,2015,56933,1002,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2015,2015,74326,2237,"Washington County, RI",05000US44009,washington-county-ri
+9,Hispanic,2015,2015,63583,34020,"Bristol County, RI",05000US44001,bristol-county-ri
+9,Hispanic,2015,2015,49607,5303,"Kent County, RI",05000US44003,kent-county-ri
+9,Hispanic,2015,2015,36956,12656,"Newport County, RI",05000US44005,newport-county-ri
+9,Hispanic,2015,2015,29084,1458,"Providence County, RI",05000US44007,providence-county-ri
+9,Hispanic,2015,2015,55031,5748,"Washington County, RI",05000US44009,washington-county-ri
+0,Total,2014,2014,69240,5304,"Bristol County, RI",05000US44001,bristol-county-ri
+0,Total,2014,2014,62976,1421,"Kent County, RI",05000US44003,kent-county-ri
+0,Total,2014,2014,72702,2313,"Newport County, RI",05000US44005,newport-county-ri
+0,Total,2014,2014,49139,832,"Providence County, RI",05000US44007,providence-county-ri
+0,Total,2014,2014,72784,1757,"Washington County, RI",05000US44009,washington-county-ri
+1,White,2014,2014,70086,5118,"Bristol County, RI",05000US44001,bristol-county-ri
+1,White,2014,2014,63702,1404,"Kent County, RI",05000US44003,kent-county-ri
+1,White,2014,2014,74412,2263,"Newport County, RI",05000US44005,newport-county-ri
+1,White,2014,2014,54134,854,"Providence County, RI",05000US44007,providence-county-ri
+1,White,2014,2014,74110,1884.0000000000000,"Washington County, RI",05000US44009,washington-county-ri
+2,Black,2014,2014,42292,219684,"Bristol County, RI",05000US44001,bristol-county-ri
+2,Black,2014,2014,42350,18515,"Kent County, RI",05000US44003,kent-county-ri
+2,Black,2014,2014,36645,17157,"Newport County, RI",05000US44005,newport-county-ri
+2,Black,2014,2014,33316,1710.0000000000000,"Providence County, RI",05000US44007,providence-county-ri
+2,Black,2014,2014,31727,20189,"Washington County, RI",05000US44009,washington-county-ri
+3,Native American,2014,2014,38393,18498,"Kent County, RI",05000US44003,kent-county-ri
+3,Native American,2014,2014,7773,6248,"Newport County, RI",05000US44005,newport-county-ri
+3,Native American,2014,2014,25923,8415,"Providence County, RI",05000US44007,providence-county-ri
+3,Native American,2014,2014,34375,24766,"Washington County, RI",05000US44009,washington-county-ri
+4,Asian,2014,2014,45385,26221,"Bristol County, RI",05000US44001,bristol-county-ri
+4,Asian,2014,2014,73173,11564,"Kent County, RI",05000US44003,kent-county-ri
+4,Asian,2014,2014,87656,36923,"Newport County, RI",05000US44005,newport-county-ri
+4,Asian,2014,2014,52097,3667.0000000000000,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2014,2014,53638,14033,"Washington County, RI",05000US44009,washington-county-ri
+5,Pacific Islander,2014,2014,18902,12871,"Providence County, RI",05000US44007,providence-county-ri
+6,Other,2014,2014,48787,4356,"Kent County, RI",05000US44003,kent-county-ri
+6,Other,2014,2014,36230,8210,"Newport County, RI",05000US44005,newport-county-ri
+6,Other,2014,2014,29822,2681,"Providence County, RI",05000US44007,providence-county-ri
+6,Other,2014,2014,50613,13807,"Washington County, RI",05000US44009,washington-county-ri
+7,Two Or More,2014,2014,59969,30608,"Bristol County, RI",05000US44001,bristol-county-ri
+7,Two Or More,2014,2014,31861,6940.000000000000,"Kent County, RI",05000US44003,kent-county-ri
+7,Two Or More,2014,2014,45404,17020,"Newport County, RI",05000US44005,newport-county-ri
+7,Two Or More,2014,2014,36420,4046,"Providence County, RI",05000US44007,providence-county-ri
+7,Two Or More,2014,2014,50857,6132,"Washington County, RI",05000US44009,washington-county-ri
+8,White Non-Hispanic,2014,2014,70403,4923,"Bristol County, RI",05000US44001,bristol-county-ri
+8,White Non-Hispanic,2014,2014,63791,1417,"Kent County, RI",05000US44003,kent-county-ri
+8,White Non-Hispanic,2014,2014,74635,2314,"Newport County, RI",05000US44005,newport-county-ri
+8,White Non-Hispanic,2014,2014,56785,844,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2014,2014,74142,1887.0000000000000,"Washington County, RI",05000US44009,washington-county-ri
+9,Hispanic,2014,2014,39872,38276,"Bristol County, RI",05000US44001,bristol-county-ri
+9,Hispanic,2014,2014,49142,3220,"Kent County, RI",05000US44003,kent-county-ri
+9,Hispanic,2014,2014,43013,18823,"Newport County, RI",05000US44005,newport-county-ri
+9,Hispanic,2014,2014,28724,1388,"Providence County, RI",05000US44007,providence-county-ri
+9,Hispanic,2014,2014,55931,15616,"Washington County, RI",05000US44009,washington-county-ri
+0,Total,2013,2013,71238,2819,"Bristol County, RI",05000US44001,bristol-county-ri
+0,Total,2013,2013,62279,1484,"Kent County, RI",05000US44003,kent-county-ri
+0,Total,2013,2013,71713,2767,"Newport County, RI",05000US44005,newport-county-ri
+0,Total,2013,2013,49297,908.0000000000000,"Providence County, RI",05000US44007,providence-county-ri
+0,Total,2013,2013,72138,2516,"Washington County, RI",05000US44009,washington-county-ri
+1,White,2013,2013,71580,3233,"Bristol County, RI",05000US44001,bristol-county-ri
+1,White,2013,2013,62855,1339,"Kent County, RI",05000US44003,kent-county-ri
+1,White,2013,2013,72924,2313,"Newport County, RI",05000US44005,newport-county-ri
+1,White,2013,2013,54104,869,"Providence County, RI",05000US44007,providence-county-ri
+1,White,2013,2013,73923,2847,"Washington County, RI",05000US44009,washington-county-ri
+2,Black,2013,2013,42091,17780,"Kent County, RI",05000US44003,kent-county-ri
+2,Black,2013,2013,47661,12915,"Newport County, RI",05000US44005,newport-county-ri
+2,Black,2013,2013,32667,2314,"Providence County, RI",05000US44007,providence-county-ri
+2,Black,2013,2013,25543,14026,"Washington County, RI",05000US44009,washington-county-ri
+3,Native American,2013,2013,42936,22989,"Kent County, RI",05000US44003,kent-county-ri
+3,Native American,2013,2013,7898,7918,"Newport County, RI",05000US44005,newport-county-ri
+3,Native American,2013,2013,32120,12125,"Providence County, RI",05000US44007,providence-county-ri
+3,Native American,2013,2013,31250,23707,"Washington County, RI",05000US44009,washington-county-ri
+4,Asian,2013,2013,58750,69970,"Bristol County, RI",05000US44001,bristol-county-ri
+4,Asian,2013,2013,69161,10626,"Kent County, RI",05000US44003,kent-county-ri
+4,Asian,2013,2013,85833,36679,"Newport County, RI",05000US44005,newport-county-ri
+4,Asian,2013,2013,51094,2861,"Providence County, RI",05000US44007,providence-county-ri
+4,Asian,2013,2013,54122,6114,"Washington County, RI",05000US44009,washington-county-ri
+5,Pacific Islander,2013,2013,25294,13850.000000000000,"Providence County, RI",05000US44007,providence-county-ri
+6,Other,2013,2013,50058,8385,"Kent County, RI",05000US44003,kent-county-ri
+6,Other,2013,2013,49038,37365,"Newport County, RI",05000US44005,newport-county-ri
+6,Other,2013,2013,30367,2585,"Providence County, RI",05000US44007,providence-county-ri
+6,Other,2013,2013,50343,22843,"Washington County, RI",05000US44009,washington-county-ri
+7,Two Or More,2013,2013,55854,40346,"Bristol County, RI",05000US44001,bristol-county-ri
+7,Two Or More,2013,2013,42708,17404,"Kent County, RI",05000US44003,kent-county-ri
+7,Two Or More,2013,2013,36932,24531,"Newport County, RI",05000US44005,newport-county-ri
+7,Two Or More,2013,2013,35795,5484,"Providence County, RI",05000US44007,providence-county-ri
+7,Two Or More,2013,2013,50083,26976,"Washington County, RI",05000US44009,washington-county-ri
+8,White Non-Hispanic,2013,2013,71679,3236,"Bristol County, RI",05000US44001,bristol-county-ri
+8,White Non-Hispanic,2013,2013,63066,1303,"Kent County, RI",05000US44003,kent-county-ri
+8,White Non-Hispanic,2013,2013,72928,2224,"Newport County, RI",05000US44005,newport-county-ri
+8,White Non-Hispanic,2013,2013,56474,991,"Providence County, RI",05000US44007,providence-county-ri
+8,White Non-Hispanic,2013,2013,73944,2858,"Washington County, RI",05000US44009,washington-county-ri
+9,Hispanic,2013,2013,53011,26340,"Bristol County, RI",05000US44001,bristol-county-ri
+9,Hispanic,2013,2013,46123,5749,"Kent County, RI",05000US44003,kent-county-ri
+9,Hispanic,2013,2013,60083,42672,"Newport County, RI",05000US44005,newport-county-ri
+9,Hispanic,2013,2013,29455,1649,"Providence County, RI",05000US44007,providence-county-ri
+9,Hispanic,2013,2013,53856,18499,"Washington County, RI",05000US44009,washington-county-ri

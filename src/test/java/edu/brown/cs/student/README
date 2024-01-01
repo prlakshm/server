@@ -1,0 +1,144 @@
+Project Name: Server Sprint 2
+
+Team Members: Pranavi Lakshminarayanan and Emily Wang
+
+Link to github: https://github.com/cs0320-f23/server-prlakshm-emilywang188
+
+Design Choices:
+
+Our Server class creates a website url at "http://localhost:3434/" and accepts requests. It creates
+four endpoints which are as follows:
+
+"http://localhost:3434/loadcsv" - Sends out a request to LoadCSVHandler
+"http://localhost:3434/viewcsv" - Sends out a request to ViewCSVHandler
+"http://localhost:3434/searchcsv" - Sends out a request to SearchCSVHandler
+"http://localhost:3434/broadband" - Sends out a request to BroadbandHandler
+
+In LoadCSVHandler, we load a csv file and prepare for it to be viewed and searched. All major manipulation
+of the csv json data is done in this class. This class calls Parser to parse the csv into a
+List<List<String>> object. We can load a different csv by searching in the url with a filename and
+if the csv has headers. The url template is as follows:
+
+"http://localhost:3434/loadcsv?filepath=[filepath]&hasHeaders=[true/false]
+
+*The filepath inputted must be from the data folder of the repository. We made this choice so that
+the user does not have access to the entire file system. So, the file with the path:
+
+C:\Users\[username]\Documents\GitHub\server-prlakshm-emilywang188\data\sample\shakespeare.csv
+
+Would be inputted as:
+
+"http://localhost:3434/loadcsv?filepath=sample/shakespeare.csv&hasHeaders=true"
+
+If an error occurs in finding or loading the file, the filepath is returned so the user can make
+sure they didn't input any typos.
+
+In ViewCSVHandler, we can view the file we loaded. We chose to put this csv in the format of a
+Hashmap<String, Hashmap<String, String>>. This is so that we can seperate each row and label them
+as "object1," "object2," and so on. If the csv has headers, the string keys for the inner hashmap
+are the header categories. If there are no headers, we label them as "field1," "field2," and so on.
+This is for improving clarity of where csv objects and feild values start/stop. We create this
+hashmap in loadcsv, then display it in view. This is why viewcsv takes in a loader as a parameter.
+All the major manipulation of csv data happend in load, because we wanted to minimize the classes
+that have access to the parsed csv data. Load returns a List<List<String>> object and ViewCSVHandler
+converts it to a json string-object.
+
+To call viewcsv:
+
+"http://localhost:3434/viewcsv"
+
+If no csv is loaded, an error message is shown.
+
+In SearchCSVHandler, you can send in params for searchVal and searchType. SearchVal is the value
+you are searching the csv for case insensitive. Then, serachType can be "name," "index," or
+"all" case insensitive. "All" searches all columns. If you type "name" or "index," you must
+also type in a columnIdentifier param which is the field name or the index to look in. An
+error occurs if not and a message is shown. The searchcsv takes the request, processes the
+parameters, then sends them to loader for the search results. Again, we wanted to minimize the
+classes with access to the csv data, so only loader can manipulate the csv data like this.
+Searcher is used in loader to search then return the List<List<String>> object with all the
+rows that match the search. This is converted to json string-object format in SearchCSVHandler.
+
+A possible search queries look like this:
+
+"http://localhost:3434/searchcsv?searchVal=[searchVal]&searchType=all"
+"http://localhost:3434/searchcsv?searchVal=[searchVal]&searchType=[name/index]&columnIndentifier=[headerName/columnIndex]"
+
+If no csv is loaded, an error message is shown.
+
+In BroadbandHandler, you can send in params for state and county to return the percent broadband
+internet access. The following url shows the format:
+
+http://localhost:3434/broadband?state=[state name]&county=[county name]
+
+This url query is case sensitive. You must include spaces and a comma in the county name
+(ex. Orange County, California). The BroadBandHandler uses the ACSAPIDatasource to retrieve the
+API results. The handler requests the params and
+sends it to the ACSAPIDatasource. The ACSAPIDatasource inputs the state name and county name into
+the ACS api search query to find the int codes for the state name and county name and return it
+to the handler. Then, the handler uses those codes to search and return the broadband results.
+These results are sent to the handler as a List<List<String>> and it is converted to a json object.
+If an error occurs in the ACSAPIDatasource methods, it is sent to the BroadbandHandler where it is
+caught. An error message is shown. It seems most intuitive to handle all errors in handler.
+
+Out ACSAPIDatasource implements the BroadBandDatasource interface. This is so that other datasources can be added later (like MockAPIDatasource) for testing and for using BroadbandHandler to get data. For example, if the ACS API is updated in for a new census and a new link is provided, we can create a new implementation of the BroadBandDatasource interface.
+
+
+Errors/Bugs:
+
+*It is important to note that the ACS API does not provide any data for a county with a population
+of <65,000 residents. If this is the case, the query will return an error. Also, if the API has any
+disrepencies between the county/state codes from the 2010 geography codes API and the codes used
+for the 2021 broadban percent API, then there will be an error.
+
+For TestViewCSVHandler, we must run tests individually. This is so that we check that if no csv is
+loaded, it will not work. We might load csvs previously. This is because even though we have
+clientConnection.disconnect() for all, it still might save previous queries. 
+
+In our code, there might be bugs that result in an error when there shouldn't be one. This can be
+a fault in our program for not accounting for a case or a fault with how moshi converts the CSV
+and API results into java objects. With our testing, we did not find any big bugs, but there
+might still be some hiding in the code. The failures are noisy and the error messages are
+descriptive, so they can be debugged more easily.
+
+
+Tests:
+To test, we forged a connection to another server port. Then, we were able to test our handler
+classes. For LoadCSVHandler, we tested a successful request, with and without headers, if a user misses
+an input in the search, and invalid file path, and invalid hasHeaders. We test this in TestLoadCSVHandler
+in the test folder.
+
+For ViewCSVHandler, we test for a successful view request, an invalid request if no csv is loaded,
+then if viewcsv shows the second csv when two are loaded. We also test if there is an error message
+when there was an unsuccessful load. We test this in TestViewCSVHandler in the test folder.
+
+When we tested SearchCSVHandler, we test for a successful all columns search request, a successful
+name search request, and a successful index search request. We also check for error if a csv is not
+loaded and if there is a missing query parameter. If the value doesn't exist, the search returns an
+emtpy list. This counts as a successful query in our SearchCSVHandler. The test file is in
+TestSearchCSVHandler in the test folder.
+
+For BroadbandHandler, we used a small test suite for both the real API and a mocked API. We make
+sure the mocked api returns the same results for different queries. We test the MockAPIDatasource in
+TestBroadbandHandlerMock. This mock test suite checks if the returns in the same format as real api
+data can be converted to json objects gracefully with moshi. We test state codes and county codes
+retrieval in unit tests, just to see if those methods work. In the TestBroadBandHandlerReal,we test
+the real ACS API. This is a small test suite to avoid overloading the website with requests. It
+checks a valid request, and invalid request with a wrong county and state name, then an invalid
+request missing a parameter. TestBroadBandHandlerReal takes a while to run, because it calls to the
+real ACS API online. The test files are in the test folder.
+
+
+How-to:
+
+Tests: To run the tests, run the TestServer.java file in the test folder. The results will display
+in the Intellij run window.
+
+Server: To run server, run the Server.java class in the edu.brown.cs.student.main/server/main
+folder. Then, in a web browser, go to the "http://localhost:3434/" host link with the desired
+endpoint. The url format is detailed above in the Design Choices section of this README.
+
+
+
+
+
