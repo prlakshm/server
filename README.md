@@ -14,7 +14,7 @@ To run the program, run the "src\main\java\edu\brown\cs\student\main\server\main
 
     /viewcsv -- to view csv file
 
-    /searchcsv?searchType=["index"/"name"]&columnIdentifier=[columnIndex/columnName]&searchVal=[searchValues] -- to serach by a specific column index or column name in loaded csv
+    /searchcsv?searchType=["index"/"name"]&columnIdentifier=[columnIndex/columnName]&searchVal=[searchValues] -- to search by a specific column index or column name in loaded csv
 
     /searchcsv?searchType=["all"]&searchVal=[searchValues] -- to search all columns in loaded csv
 
